@@ -1,6 +1,6 @@
 {
   "name": "@haydenbleasel/use-sticky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny, SSR-friendly hook for tracking element sticky state.",
   "files": [
     "dist"
